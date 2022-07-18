@@ -1,9 +1,9 @@
 <h1 align="center">Hi, My name is Tzach Halfon</h1>
 <h3 align="center";">A FullStack software developer from Israel.</br>
 
-<!-- <p align="center">
+<p align="center">
   <a href="#"><img src="./images/intro.png" style="border-radius: 5px;" width="500px" title="cover"></a>
-</p> -->
+</p>
 
 -   🌐 I love creating and being able to turn an idea into reality.
 
