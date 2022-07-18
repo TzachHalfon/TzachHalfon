@@ -1,33 +1,37 @@
-<h1 align="center">Hi 👋, I'm Tzach Halfon</h1>
-<h3 align="center">A BackEnd Developer from Israel</h3>
+<h1 align="center">Hi, My name is Tzach Halfon</h1>
+<h3 align="center";">A FullStack software developer from Israel.</br>
 
-- 🔭 I’m currently working on **FullStack food blog website**
+<!-- <p align="center">
+  <a href="#"><img src="./images/intro.png" style="border-radius: 5px;" width="500px" title="cover"></a>
+</p> -->
 
-- 🌱 I’m currently learning **Spring, SQL, REST API'S**
+-   🌐 I love creating and being able to turn an idea into reality.
 
-- 💬 Ask me about **java and Spring**
+-   🌱 I’m currently learning **Spring boot, SQL, REST APIs**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+# Contact me
+
 <div>
-  <a href="https://www.linkedin.com/in/omer-desezar-0864591b0/" target="_blank" rel="noopener noreferrer"><img src ="./images/linkedin-logo.svg" alt="LinkedIn logo" width="4%" title='LinkedIn'/></a>
+  <a href="https://www.linkedin.com/in/tzachhalfon/" target="_blank" rel="noopener noreferrer"><img src ="./images/linkedin-logo.svg" alt="LinkedIn logo" width="8%" title='LinkedIn'/></a>
   &nbsp&nbsp
- <a href="mailto:dashhawk96@gmail.com" target="_blank"><img src ="./images/gmail.svg" alt="dashhawk96@gmail.com" width="4%" title='dashhawk96@gmail.com'/></a>
+ <a href="mailto:tzach676@gmail.com" target="_blank"><img src ="./images/gmail.svg" alt="tzach676@gmail.com" width="8%" title='tzach676@gmail.com'/></a>
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
- <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
- <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
- <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
- <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
- <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-</p>
+## Technologies
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tzachhalfon&show_icons=true&locale=en&layout=compact" alt="tzachhalfon" /></p>
+<div>
+  <a href="https://www.oracle.com/java/" target="_blank"><img src ="./images/java.svg" alt="Java logo" width="8%" title='Java'/></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src ="./images/c.png" alt="C logo" width="8%" title='C'/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src ="./images/html-5.svg" alt="HTML5 logo" width="8%" title='html'/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src ="./images/mysql.svg" alt="MySQL logo" width="8%" title='MySQL'/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src ="./images/mongodb.svg" alt="MongoDB logo" width="8%" title='MongoDB'/></a>
+</div>
+                                                                  
+                                                                 
+## Tools
+<div>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="8%" title='Visual Studio Code'/></a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src ="./images/IntelliJ.svg" alt="IntelliJ logo" width="8%" title='IntelliJ'/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src ="./images/git.svg" alt="Git logo" width="8%" title='Git'/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src ="./images/linux.svg" alt="Linux logo" width="8%" title='Linux'/></a>
+</div>
