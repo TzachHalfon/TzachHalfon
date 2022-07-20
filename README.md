@@ -4,10 +4,17 @@
 <p align="center">
   <a href="#"><img src="./images/cover.png" style="border-radius: 5px;" width="1000px" title="cover"></a>
 </p>
-<h3 align="center";">A FullStack software developer from Israel.</br>
--   🌐 I love creating and being able to turn an idea into reality.
+<h3 align="left";">A FullStack software developer from Israel.</br>
 
--   🌱 I’m currently learning **Spring, SQL, REST APIs
+- 🌐 I love creating and being able to turn an idea into reality.
+
+- 🌱 I’m currently learning **Spring, SQL, REST APIs**
+
+- 👯 I’m looking to **Collaborate with other developers and share codes and solutions**
+
+- 🥅 2022 Goals: **Contribute to Open Source projects**
+
+- 💬 Ask me about **Web Development, Viral Trafficking, Algorithms, Facebook Graph API, Object-oriented programming*
 
 # Contact me
 
