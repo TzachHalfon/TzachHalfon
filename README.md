@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tzach Halfon</h1>
 <h3 align="center";">A FullStack software developer from Israel.</br>
 
+<p align="center">
+  <a href="#"><img src="./images/cover.pdf" style="border-radius: 5px;" width="500px" title="cover"></a>
+</p>
+
 -   🌐 I love creating and being able to turn an idea into reality.
 
 -   🌱 I’m currently learning **Spring, SQL, REST APIs**
