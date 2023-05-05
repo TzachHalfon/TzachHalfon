@@ -33,6 +33,8 @@
   <a href="https://www.mysql.com/" target="_blank"><img src ="./images/mysql.svg" alt="MySQL logo" width="8%" title='MySQL'/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src ="./images/mongodb.svg" alt="MongoDB logo" width="8%" title='MongoDB'/></a>
   <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src ="./images/css-3.svg" alt="CSS logo" width="8%" title='CSS'/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src ="./images/docker.svg" alt="Docker logo" width="8%" title='Docker'/></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank"><img src ="./images/c--4.svg" alt="C# logo" width="8%" title='C#'/></a>
 </div>
                                                         
 ## Tools
