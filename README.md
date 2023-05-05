@@ -27,6 +27,7 @@
 <div>
   <a href="https://www.cprogramming.com/" target="_blank"><img src ="./images/c.png" alt="C logo" width="8%" title='C'/></a>
   <a href="https://www.oracle.com/java/" target="_blank"><img src ="./images/java.svg" alt="Java logo" width="8%" title='Java'/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src ="./images/javascript.svg" alt="Javascript logo" width="8%" title='Javascript'/></a>
   <a href="https://www.python.org/" target="_blank"><img src ="./images/python.svg" alt="Python logo" width="8%" title='python'/></a>
   <a href="https://www.w3.org/html/" target="_blank"><img src ="./images/html-5.svg" alt="HTML5 logo" width="8%" title='html'/></a>
   <a href="https://spring.io/" target="_blank"><img src ="./images/spring.svg" alt="spring logo" width="8%" title='Spring'/></a>
@@ -34,7 +35,7 @@
   <a href="https://www.mongodb.com/" target="_blank"><img src ="./images/mongodb.svg" alt="MongoDB logo" width="8%" title='MongoDB'/></a>
   <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src ="./images/css-3.svg" alt="CSS logo" width="8%" title='CSS'/></a>
   <a href="https://www.docker.com/" target="_blank"><img src ="./images/docker.svg" alt="Docker logo" width="8%" title='Docker'/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src ="./images/rabbitmq-icon.svg" alt="rabbitmq logo" width="8%" title='rabbitmq'/></a>
+  <a href="https://rabbitmq.com" target="_blank"><img src ="./images/rabbitmq-icon.svg" alt="rabbitmq logo" width="8%" title='rabbitmq'/></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank"><img src ="./images/c--4.svg" alt="C# logo" width="8%" title='C#'/></a>
 </div>
                                                         
