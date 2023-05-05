@@ -37,6 +37,7 @@
   <a href="https://www.docker.com/" target="_blank"><img src ="./images/docker.svg" alt="Docker logo" width="8%" title='Docker'/></a>
   <a href="https://rabbitmq.com" target="_blank"><img src ="./images/rabbitmq-icon.svg" alt="rabbitmq logo" width="8%" title='rabbitmq'/></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank"><img src ="./images/c--4.svg" alt="C# logo" width="8%" title='C#'/></a>
+  <a href="https://grpc.io/" target="_blank"><img src ="./images/grpc.svg" alt="grpc logo" width="8%" title='grpc'/></a>
 </div>
                                                         
 ## Tools
