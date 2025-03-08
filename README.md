@@ -19,7 +19,7 @@
 <div>
   <a href="https://www.linkedin.com/in/tzachhalfon" target="_blank" rel="noopener noreferrer"><img src ="./images/linkedin-logo.svg" alt="LinkedIn logo" width="8%" title='LinkedIn'/></a>
   &nbsp&nbsp
- <a href="mailto:tzach676@gmail.com" target="_blank"><img src ="./images/gmail.svg" alt="tzach676@gmail.com" width="8%" title='tzach676@gmail.com'/></a>
+ <a href="mailto:halfontzach@gmail.com" target="_blank"><img src ="./images/gmail.svg" alt="tzach676@gmail.com" width="8%" title='tzach676@gmail.com'/></a>
 </div>
 
 ## Technologies
